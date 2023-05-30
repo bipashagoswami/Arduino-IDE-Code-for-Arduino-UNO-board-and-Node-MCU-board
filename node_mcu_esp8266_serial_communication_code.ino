@@ -2,7 +2,6 @@
 #include <FirebaseArduino.h>
 #include <ArduinoJson.h>
 
-
 #define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxx"                     //Firebase Real time database reference URL without https:// at start and / at end
 #define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxx"                    //Firebase Database secret token
 #define WIFI_SSID "XXXXXXXXXXX"                     //Enter wifi ssid
